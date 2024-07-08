@@ -4,7 +4,7 @@ Welcome to the **Revelation Project** repository. This project showcases a moder
 
 ## 🌟 Live Preview
 
-Explore the live demo of the website [here](https://md-emon-hasan.github.io/revelation/).
+Explore the live demo of the website [here](https://md-emon-hasan.github.io/Revelation/).
 
 ## 📋 Contents
 
